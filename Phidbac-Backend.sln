@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31512.422
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phidbac.API", "src\Phidbac.API\Phidbac.API.csproj", "{8252B913-8763-4B07-823E-DBC20E368A62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phidbac.Domain", "src\Phidbac.Domain\Phidbac.Domain.csproj", "{02B8300F-3104-4831-A3CE-0DA006030EA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phidbac.Infrastructure", "src\Phidbac.Infrastructure\Phidbac.Infrastructure.csproj", "{DCC3492A-5D53-46E8-8DE9-7CC949B1CEC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8252B913-8763-4B07-823E-DBC20E368A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8252B913-8763-4B07-823E-DBC20E368A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8252B913-8763-4B07-823E-DBC20E368A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8252B913-8763-4B07-823E-DBC20E368A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B8300F-3104-4831-A3CE-0DA006030EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B8300F-3104-4831-A3CE-0DA006030EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B8300F-3104-4831-A3CE-0DA006030EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B8300F-3104-4831-A3CE-0DA006030EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC3492A-5D53-46E8-8DE9-7CC949B1CEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC3492A-5D53-46E8-8DE9-7CC949B1CEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC3492A-5D53-46E8-8DE9-7CC949B1CEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC3492A-5D53-46E8-8DE9-7CC949B1CEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {270A8D37-D30A-4B0C-AFFA-A0694266E574}
+	EndGlobalSection
+EndGlobal
