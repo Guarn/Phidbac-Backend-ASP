@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Phidbac.Domain.Interfaces;
 using Phidbac.Domain.Models;
 using Phidbac.Infrastructure.Context;
 using System;
