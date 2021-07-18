@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phidbac.Domain", "src\Phidb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phidbac.Infrastructure", "src\Phidbac.Infrastructure\Phidbac.Infrastructure.csproj", "{DCC3492A-5D53-46E8-8DE9-7CC949B1CEC0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{1B6A0CA2-1FF6-4EC1-A422-5E5235A793EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
